@@ -4,7 +4,7 @@ This is a simple script to turn on and then disable **LightingService** which co
 
 ## Reason for script
 
-My laptop ASUS GL503GE was having heating issue . The cluprit was  **LightingService** which took 10-15 % CPU utilization . So , I had to manually disable it . And when I needed the backlight functionality then enable it run it and then disable it. So, I somewhat automated that process.
+My laptop ASUS GL503GE was having heating issue . The cluprit was  **LightingService** which took 10-15 % CPU utilization . So , I had to manually disable it . And when I needed the backlight functionality then enable it, run it and then disable it. So, I somewhat automated that process.
 
 ## Usage 
 
